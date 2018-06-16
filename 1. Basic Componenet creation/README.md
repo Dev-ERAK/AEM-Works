@@ -1,4 +1,4 @@
-# Basic Componenet creation
+# Basic Component creation
 How to Create AEM component in 6.3
 
 Steps :
